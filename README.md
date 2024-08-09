@@ -169,7 +169,6 @@ Invoke-WebRequest -Uri "https://cs.symfony.com/download/php-cs-fixer-v3.phar" -O
 ```
 
 Note: On Windows, you may need to add the installation directories to your PATH environment variable.
-```
 
 ## License
 
